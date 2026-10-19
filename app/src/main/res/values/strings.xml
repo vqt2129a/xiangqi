@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cờ Tướng</string>
+    <string name="back">Quay lại</string>
+    <string name="cancel">Hủy</string>
+
+    <string name="home_continue">Chơi tiếp</string>
+    <string name="home_vs_computer">Đấu với máy</string>
+    <string name="home_difficulty">Độ khó</string>
+    <string name="home_side">Cầm quân</string>
+    <string name="home_start">Bắt đầu</string>
+    <string name="home_two_players">Hai người chơi</string>
+    <string name="home_two_players_desc">Chơi chung trên một máy</string>
+    <string name="home_history">Lịch sử ván đấu</string>
+    <string name="home_history_short">Lịch sử</string>
+    <string name="home_resume_title">Ván đang chơi dở</string>
+    <string name="home_resume_message">Bạn muốn chơi tiếp hay bắt đầu ván mới?</string>
+    <string name="home_abandon_title">Bỏ ván đang chơi?</string>
+    <string name="home_abandon_message">Ván đang chơi dở sẽ bị tính là thua.</string>
+    <string name="home_abandon_confirm">Chơi ván mới</string>
+
+    <string name="ok">Đồng ý</string>
+    <string name="on">Bật</string>
+    <string name="off">Tắt</string>
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_sound_effects">Âm thanh</string>
+    <string name="settings_music">Nhạc nền</string>
+    <string name="home_settings">Cài đặt</string>
+    <string name="account_title">Tài khoản</string>
+    <string name="account_connecting">Đang kết nối…</string>
+    <string name="account_guest">Khách · lịch sử chỉ lưu trên máy này</string>
+    <string name="account_sign_in_google">Kết nối tài khoản Google</string>
+    <string name="account_sign_out">Đăng xuất</string>
+    <string name="account_signed_in">Đã đăng nhập. Lịch sử sẽ được sao lưu lên cloud.</string>
+    <string name="account_signed_in_restored">Đã đăng nhập. Khôi phục %1$d ván từ cloud.</string>
+    <string name="account_sign_in_failed">Đăng nhập không thành công, thử lại sau.</string>
+    <string name="account_signed_out">Đã đăng xuất. Lịch sử vẫn còn trên máy.</string>
+    <string name="home_choose_level">Đấu với máy</string>
+    <string name="game_new">Ván mới</string>
+    <string name="game_settings">Cài đặt</string>
+
+    <string name="difficulty_easy">Dễ</string>
+    <string name="difficulty_medium">Vừa</string>
+    <string name="difficulty_hard">Khó</string>
+    <string name="side_red">Đỏ (đi trước)</string>
+    <string name="side_red_short">Đỏ</string>
+    <string name="home_moves_first">Đi trước</string>
+    <string name="home_moves_second">Đi sau</string>
+    <string name="side_black">Đen</string>
+
+    <string name="mode_two_players">Hai người chơi</string>
+    <string name="mode_vs_computer">Đấu với máy · %1$s</string>
+    <string name="move_count">%1$d nước</string>
+
+    <string name="game_turn_red">Lượt Đỏ</string>
+    <string name="game_turn_black">Lượt Đen</string>
+    <string name="game_your_turn">Lượt của bạn</string>
+    <string name="game_computer_thinking">Máy đang nghĩ…</string>
+    <string name="game_undo">Đi lại</string>
+    <string name="game_resign">Xin thua</string>
+    <string name="game_resign_title">Xin thua?</string>
+    <string name="game_resign_message">Ván này sẽ được tính là thua.</string>
+    <string name="game_message_check">Chiếu tướng!</string>
+    <string name="game_message_rejected">Không thực hiện được thao tác này</string>
+    <string name="game_message_load_failed">Không mở được ván cờ</string>
+    <string name="game_back_home">Về trang chủ</string>
+    <string name="game_view_board">Xem bàn cờ</string>
+
+    <string name="result_you_win">Bạn thắng!</string>
+    <string name="result_you_lose">Bạn thua</string>
+    <string name="result_red_wins">Đỏ thắng</string>
+    <string name="result_black_wins">Đen thắng</string>
+    <string name="result_draw">Hòa</string>
+    <string name="reason_checkmate">Chiếu bí</string>
+    <string name="reason_stalemate">Hết nước đi</string>
+    <string name="reason_resignation">Xin thua</string>
+    <string name="reason_repetition">Lặp lại thế cờ 3 lần</string>
+    <string name="reason_move_limit">60 nước không có quân nào bị ăn</string>
+    <string name="reason_insufficient_material">Cả hai bên không còn quân tấn công</string>
+
+    <string name="history_title">Lịch sử ván đấu</string>
+    <string name="history_empty">Chưa có ván nào</string>
+    <string name="history_record">%1$d thắng · %2$d thua · %3$d hòa</string>
+    <string name="history_in_progress">Đang chơi</string>
+</resources>

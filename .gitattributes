@@ -1,0 +1,11 @@
+# Chuẩn hóa xuống dòng: lưu LF trong repo, riêng script Windows dùng CRLF.
+* text=auto eol=lf
+*.bat text eol=crlf
+gradlew text eol=lf
+
+# File nhị phân: không đụng tới.
+*.png binary
+*.jpg binary
+*.mp3 binary
+*.wav binary
+*.jar binary

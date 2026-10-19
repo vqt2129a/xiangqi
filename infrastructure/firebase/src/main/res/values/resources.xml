@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_name">Thông báo chung</string>
+    <string name="notification_channel_description">Thử thách, sự kiện và nhắc chơi tiếp ván dở</string>
+    <color name="notification_accent">#FFC62828</color>
+</resources>

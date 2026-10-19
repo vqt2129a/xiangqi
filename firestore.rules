@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Mỗi người chỉ đọc/ghi được dữ liệu của chính mình (uid lấy từ Firebase Auth, kể cả tài khoản ẩn danh).
+    match /users/{uid}/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+  }
+}

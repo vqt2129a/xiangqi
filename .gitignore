@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+# Cấu hình Firebase của từng người, tự tải từ Firebase Console
+app/google-services.json
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
